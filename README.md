@@ -1,26 +1,3 @@
-<div align="center">
-
-# 👋 Hi, I'm Ryan
-
-### Software Engineer | Full-Stack Expertise | AI Engineer
-
-⭐️ **Full-Stack Developer** specializing in building production-ready web applications using React/Next.js and Supabase.
-
-Looking to launch your MVP or production-ready app quickly? I help startups and businesses transform their ideas into real, high-quality web applications in **weeks—not months**.
-
----
-
-### 🚀 Specializations
-
-**AI Expert** | **Lovable.dev Specialist** | **Replit & Softr** | **N8N & Make** | **Cursor** | **AI Automations**
-
----
-
-</div>
-
-
-
-
 
 <div align="center">
 
@@ -84,16 +61,6 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
       </p>
     </td>
     <td align="center" valign="top">
-      <h4>🔄 Automation & Integration</h4>
-      <p>
-        <a href="https://n8n.io/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/n8n.svg" alt="n8n" width="40" height="40"/></a>
-        <a href="https://www.make.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/17637681?s=200&v=4" alt="make" width="40" height="40"/></a>
-        <a href="https://zapier.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/zapier.svg" alt="zapier" width="40" height="40"/></a>
-        <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/postman.svg" alt="postman" width="40" height="40"/></a>
-        <a href="https://www.softr.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45687452?s=200&v=4" alt="softr" width="40" height="40"/></a>
-      </p>
-    </td>
-    <td align="center" valign="top">
       <h4>🎯 No-Code Platforms</h4>
       <p>
         <a href="https://lovable.dev/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/lovable-ai-icon.svg" alt="lovable" width="40" height="40"/></a>
@@ -133,18 +100,6 @@ From scope and architecture to launch and scale. Proven track record delivering 
 - Vercel, Netlify, Supabase, AWS (Lambda, EC2, S3)
 - Dockerized apps, CI/CD pipelines
 - Edge functions, serverless deployment, performance optimization
-
----
-
-## ✨ Why Choose Me?
-
-- ✅ **Proven track record** as a Top Rated Expert delivering complex projects
-- ✅ **Strong Supabase backend expertise** for secure and scalable data models
-- ✅ **Reliable MVP builds** using React, Vite, Next.js, and Node.js
-- ✅ **Professional project structure** with clear milestones and maintainable handover
-- ✅ **Fast delivery** - moving from prototype to production in weeks, not months
-- ✅ **No-Code Developer** - Expert in Lovable.dev, Softr, Airtable, and other no-code platforms
-- ✅ **AI Automation Specialist** - Building intelligent workflows and AI-powered solutions
 
 ---
 
