@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Full Stack Expert</h1>
+<h1> Business Developer | Senior Software Engineer </h1>
 <h3>AI-Focused · Web & Mobile Application Development</h3>
 
 <br/>
