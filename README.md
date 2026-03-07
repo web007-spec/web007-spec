@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 <h1>Senior Software Engineer</h1>
 <h3>AI-Focused · Web & Mobile Application Development</h3>
@@ -14,7 +14,8 @@
 <br/>
 
 ---
-
+<div align="left">
+  
 <h2>🛠️ Technology Stack</h2>
 
 <h4>💻 Languages</h4>
@@ -101,5 +102,7 @@
 </p>
 
 ---
+
+</div>
 
 </div>
