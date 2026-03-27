@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Business Developer | Senior Full-Stack Engineer </h1>
+<h1> Senior Full-Stack Engineer | Fast-Launch MVP/SAAS </h1>
 <h3>AI-Focused · Web & Mobile Application Development</h3>
 
 <br/>
