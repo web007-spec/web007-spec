@@ -1,6 +1,6 @@
-<div align="center">
+<img width="469" height="34" alt="image" src="https://github.com/user-attachments/assets/88f7ca60-9f8c-44f4-a60b-089ca81c3365" /><div align="center">
 
-<h1> Senior Full-Stack Engineer | Fast-Launch MVP/SAAS </h1>
+<h1> Senior Full-Stack Engineer | Launch MVPs to Production Apps Fast </h1>
 <h3>AI-Focused · Web & Mobile Application Development</h3>
 
 <br/>
