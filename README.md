@@ -1,4 +1,9 @@
 <div align="center">
+    <p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=web007-spec&theme=metropolis&data=followers,repositories,stars,commits' />
+    </p>    
+</div>
+<div align="center">
 <h1> Senior Full-Stack Engineer </h1>
 <h3>AI-Focused · Web & Mobile Application Development</h3>
 
